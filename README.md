@@ -1,2 +1,2 @@
 # sample-repo
-健太郎が作成
+sample-repoで変更
